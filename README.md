@@ -1,6 +1,6 @@
 # Intent Classification using LSTM
    ## PROBLEM STATEMENT
-        Classify the Intent category which can be used in chatbot like greetings etc..
+        ###Classify the Intent category which can be used in chatbot like greetings etc..
    ## DATASET DESCRIPTION
      It contains 41,424 rows and 2 columns named as Text and Intent , where intent is the target variable contain 12 class 
 
